@@ -24,3 +24,6 @@ elixir_table_creator-*.tar
 
 # Ignore compiled escript file
 elixir_table_creator
+
+# Ignore IDEA folder
+/.idea/

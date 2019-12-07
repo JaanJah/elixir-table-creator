@@ -1,6 +1,13 @@
 # ElixirTableCreator
 
-**TODO: Add description**
+Usage:
+```bash
+# Build CLI app:
+mix escript.build
+
+# Run CLI app:
+./elixir_table_creator -f file-name -t table-name
+```
 
 ## Installation
 
